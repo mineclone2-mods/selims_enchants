@@ -1,0 +1,3 @@
+# textdomain: selims_enchants
+Magma Walker=
+Turns lava beneath the player into magma blocks.=
