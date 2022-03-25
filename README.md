@@ -1,10 +1,10 @@
-# template-mod
+# Selim's Enchants
 
-A porting of a Minecraft mod to [MineClone2](https://content.minetest.net/packages/Wuzzy/mineclone2/).
+A porting of the [Selim's Enchants](https://www.curseforge.com/minecraft/mc-mods/selims-enchantments) Minecraft mod to [MineClone2](https://content.minetest.net/packages/Wuzzy/mineclone2/).
 
 ## Informations
 
-**Maintainer:** github user
+**Maintainer:** AFCMS
 
 **State:** WIP
 

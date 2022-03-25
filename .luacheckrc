@@ -3,6 +3,7 @@ allow_defined_top = true
 max_line_length = 125
 
 globals = {
+	"mcl_enchanting",
 }
 
 read_globals = {
@@ -91,7 +92,7 @@ read_globals = {
 	"mcl_title", "mcl_tmp_message",
 	-- ITEMS
 	"mcl_armor", "mcl_banners", "mcl_beds", "mcl_bows", "mcl_buckets", "mcl_cocoas", "mcl_clock", "mcl_compass", "mcl_core",
-	"mcl_crafting_table", "mcl_doors", "mcl_dye", "mcl_enchanting", "mcl_end", "mcl_farming", "mcl_fences", "mcl_fire",
+	"mcl_crafting_table", "mcl_doors", "mcl_dye", "mcl_end", "mcl_farming", "mcl_fences", "mcl_fire",
 	"mcl_flowerpots", "mcl_flowers", "mcl_jukebox", "mcl_maps", "mcl_mobspawners", "mcl_ocean", "mcl_portals", "mcl_potions",
 	"mcl_stairs", "mcl_throwing", "tnt", "mcl_torches", "mcl_walls", "mcl_observers", "mesecon", "screwdriver", "xpanes",
 	-- MAPGEN
@@ -101,10 +102,4 @@ read_globals = {
 	-- PLAYER
 	"mcl_death_drop", "mcl_hunger", "mcl_player", "mcl_playerinfo", "mcl_playerplus", "mcl_skins", "mcl_spawn", "mcl_sprint",
 	"mcl_wieldview", "playerphysics",
-
-	--------------------------------------------
-	-- PALAMOD
-	--------------------------------------------
-	-- OPTIONAL DEPENDS
-	"db_manager", "mc_economy", "mc_faction",
 }
