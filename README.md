@@ -14,4 +14,4 @@ A porting of the [Selim's Enchants](https://www.curseforge.com/minecraft/mc-mods
 
 [![Minetest Version](https://img.shields.io/badge/Minetest-5.4.1-green)](https://github.com/minetest/minetest/releases/tag/5.4.1)
 
-project description
+This mod simply adds some new enchantments and curses.
